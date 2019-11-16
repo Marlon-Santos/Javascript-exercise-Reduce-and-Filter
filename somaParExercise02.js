@@ -1,5 +1,6 @@
 // 2) Dado um vetor de números, como poderia ser realizada a soma de todos
 // os valores pares utilizando reduce e filter.
+
 console.log("************Exercicio 2***********");
 
 const vetPares = [59, 39, 200, 21, 252, 1021];
